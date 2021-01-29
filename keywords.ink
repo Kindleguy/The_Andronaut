@@ -8,36 +8,42 @@ VAR mentioned_journey = false
 VAR mentioned_risky = false
 VAR mentioned_memory = false
 
-== keywords ==
+== keywords (-> sequel) ==
 
 * {mentioned_andrine} Andrine
-
-    My identity. I love it. I have never felt any need to change it.
+    -> andrine -> keywords(sequel)
 
 * { mentioned_robert} Robert
-
-    -> robert(-> keywords)
+    -> robert -> keywords(sequel)
     
 
 * {mentioned_space} Space
-
-    Space in itself is just nothing, but it contains a lot of exiting worlds and other objects it it.
+    -> space -> keywords(sequel)
 
 * {mentioned_explorer} Explorer
-
-    I was sent out to explore the galaxy, where organic beings could not reach in their lifetime.
+    -> explorer -> keywords(sequel)
 
 * {mentioned_android} Android
+    -> android -> keywords(sequel)
 
 * {mentioned_andronaut} Andronaut
 
-    An android exploring space.
+    -> andronaut -> keywords(sequel)
 
 * {mentioned_journey} Journey
 
+    -> journey -> keywords(sequel)
+    
+
 * {mentioned_risky} Risky
+
+    -> risky -> keywords(sequel)
 
 * {mentioned_memory} Memory
 
+    -> sequel//-> memory -> keywords(sequel)
 
--> DONE
+
+* Stop questioning
+  
+    -> sequel
