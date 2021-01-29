@@ -1,12 +1,21 @@
+INCLUDE keywords.ink
+INCLUDE keywords/robert.ink
+
+-> the_andronaut
+
+== the_andronaut ==
+
 Greetings! I am captain Jon Sordal of the Cosmoship Venture. Who are you? # @Jon
 
 The female-shaped android rises up from the reparation table and looks curiously around.
 
 Greeting, captain! I am a space-explorer android, an andronaut. # @Andronaut
+~ mentioned_space = true
 
-* What is your name or designation? # @Jon
+* What is your name? # @Jon
 
     Andrine.
+    ~ mentioned_andrine = true
     
 - Nice to meet you, Andrine. What were you doing alone in empty space? # @Jon
 
@@ -28,40 +37,7 @@ Any keywords? # @Jon
 
 It's easiest with words and expressions that I have already mentioned in our communication. # @Andrine
 
-Well, here we go.
+Well, let's have a try... # @Jon
 
--> keywords_1
+-> keywords
 
-* Andrine
-
-    My identity. I have never felt the need to change it.
-
-* Robert
-
-    My companion. I would not have survived the journey without him.
-
-* Space
-
-    Space in itself is nothing, but it contains a lot of exiting worlds and other objects it it.
-
-* Explorer
-
-    I was sent out to explore the galaxy, where organic beings could not reach in their lifetime.
-
-* Android
-
-* Andronaut
-
-    An android exploring space.
-
-* Journey
-
-* Risky
-
-* Memory
-
-Journey
-
-= keywords_1
-
--> DONE
