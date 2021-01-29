@@ -7,6 +7,7 @@ INCLUDE keywords/android.ink
 INCLUDE keywords/andronaut.ink
 INCLUDE keywords/journey.ink
 INCLUDE keywords/risky.ink
+INCLUDE keywords/memory.ink
 
 -> the_andronaut
 
