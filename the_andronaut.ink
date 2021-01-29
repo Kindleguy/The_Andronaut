@@ -8,50 +8,55 @@ INCLUDE keywords/andronaut.ink
 INCLUDE keywords/journey.ink
 INCLUDE keywords/risky.ink
 INCLUDE keywords/memory.ink
+INCLUDE keywords/people.ink
+INCLUDE keywords/creators.ink
+INCLUDE keywords/feelings.ink
 
 -> the_andronaut
 
 == the_andronaut ==
 
-Greetings! I am captain Jon Sordal of the Cosmoship Venture. Who are you? # @Jon
+Jon: Greetings! I am captain Jon Sordal of the Cosmoship Venture. Who are you?
 
-The female-shaped android rises up from the reparation table and looks curiously around.
+The female-shaped android rises up from the reparation table and looks curiously around, before focusing on the man in uniform.
 
-Greeting, captain! I am a space-explorer android, an andronaut. # @Andronaut
+The Android: Greeting, captain! I am a space-explorer android, an andronaut.
 ~ mentioned_space = true
 ~ mentioned_explorer = true
 ~ mentioned_android = true
 ~ mentioned_andronaut = true
 
-* What is your name? # @Jon
+* Jon: What is your name?
 
-    Andrine.
+    Andrine: Andrine.
     ~ mentioned_andrine = true
     
-- Nice to meet you, Andrine. What were you doing alone in empty space? # @Jon
+- Jon: Nice to meet you, Andrine. What were you doing alone in empty space?
 
-I was not alone. Robert was with me. # @Andrine
+Andrine: I was not alone. Robert was with me.
 ~ mentioned_robert = true
 
-I am sorry, but we only found you floating around here. # @Jon
+Jon: I am sorry, but we only found you floating around just right outside.
 
-It's alright. We knew both the journey was risky. # @Andrine
+# IMAGE: images/andrine_in_space.png
+
+Andrine: It's alright. We knew both the journey was risky.
 ~ mentioned_journey = true
 
-Tell me about your journey. # @Jon
+Jon: Tell me about your journey.
 
-It was long, VERY long, and the bumpy return ride has deactivated my rapid memory compilation routines. I struggle giving a sensible summary. # @Andrine
+Andrine: It was long, VERY long, and the bumpy return ride has deactivated my rapid memory compilation routines. I struggle giving a sensible summary.
 ~ mentioned_memory = true
 
-We were lucky being able to reactivate you. Our android technology is not as advanced as yours. # @Jon
+Jon: We were lucky just being able to reactivate you and fix your physical injuries. Our android technology is not as advanced as yours.
 
-Try to query me more specifically with keywords. That helps me jog my slow memory backup retrieval routines. # @Andrine
+Andrine: Try to query me more specifically with keywords. That helps me jog my slow memory backup retrieval routines.
 
-Any keywords? # @Jon
+Jon: Any keywords?
 
-It's easiest with words and expressions that I have already mentioned in our communication. # @Andrine
+Andrine: It's easiest with words and expressions that I have already mentioned in our communication.
 
-Well, let's have a try... # @Jon
+Jon: Well, let's have a try...
 
 -> keywords(-> consultation)
 

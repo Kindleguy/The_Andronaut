@@ -1,3 +1,3 @@
 == andronaut ==
-An android exploring space, that's what I am.
+Andrine: An android exploring space, that's what I am.
 ->->

@@ -8,6 +8,10 @@ VAR mentioned_journey = false
 VAR mentioned_risky = false
 VAR mentioned_memory = false
 
+VAR mentioned_people = false
+VAR mentioned_creators = false
+VAR mentioned_feelings = false
+
 == keywords (-> sequel) ==
 
 * {mentioned_andrine} Andrine
@@ -15,7 +19,6 @@ VAR mentioned_memory = false
 
 * { mentioned_robert} Robert
     -> robert -> keywords(sequel)
-    
 
 * {mentioned_space} Space
     -> space -> keywords(sequel)
@@ -34,15 +37,25 @@ VAR mentioned_memory = false
 
     -> journey -> keywords(sequel)
     
-
 * {mentioned_risky} Risky
 
     -> risky -> keywords(sequel)
 
 * {mentioned_memory} Memory
 
-    -> sequel//-> memory -> keywords(sequel)
+    -> memory -> keywords(sequel)
+    
+* {mentioned_people} People
 
+    -> people -> keywords(sequel)
+    
+* {mentioned_memory} Creators
+
+    -> creators -> keywords(sequel)
+
+* {mentioned_memory} Feelings
+
+    -> feelings -> keywords(sequel)
 
 * Stop questioning
   
