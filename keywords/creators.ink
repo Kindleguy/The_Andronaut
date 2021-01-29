@@ -17,4 +17,8 @@ Jon: So time travel through wormholes is possible.
 
 Andrine: Yes, but risky. We thought we had made our necessary security precautions, but the vessel didn't seem to make it through.
 
+Jon: I am sorry to hear that.
+
+Andrine: Nothing you could have done.
+
 ->->
