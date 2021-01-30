@@ -16,6 +16,9 @@ INCLUDE keywords/andronauts.ink
 INCLUDE keywords/wormhole.ink
 INCLUDE keywords/time_return.ink
 INCLUDE keywords/vessel.ink
+INCLUDE visit_counselor.ink
+
+INCLUDE find_andrines_homeworld.ink
 
 -> the_andronaut
 
@@ -80,13 +83,4 @@ Jon: Well, let's have a try...
 
 -> keywords(-> find_andrines_homeworld)
 
-== find_andrines_homeworld == 
-Jon and the chief science officer discovers the planet Hub and finds out that it is not as developed in space travel and android technology as Andrine remembered it.
--> visit_councellor
-
-
-== visit_councellor ==
-Jon visits the councellor of the ship for advice of what to do.
-The choices are between leaving Andrine on her homeworld or letting Andrine join the Venture and live among earthlings until the time she were supposed to return to Hub.
--> DONE
 
