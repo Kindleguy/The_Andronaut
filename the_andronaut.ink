@@ -16,6 +16,13 @@ INCLUDE keywords/feelings.ink
 
 == the_andronaut ==
 
+The Andronaut
+
+Told by Targeir Attestog
+Illustrated by Njål "Zaceron"
+
+# IMAGE: images/sickbay.jpg
+
 Jon: Greetings! I am captain Jon Sordal of the Cosmoship Venture. Who are you?
 
 The female-shaped android rises up from the reparation table and looks curiously around, before focusing on the man in uniform.
@@ -38,7 +45,7 @@ Andrine: I was not alone. Robert was with me.
 
 Jon: I am sorry, but we only found you floating around just right outside.
 
-# IMAGE: images/andrine_in_space.png
+# IMAGE: images/floating_in_space.jpg
 
 Andrine: It's alright. We knew both the journey was risky.
 ~ mentioned_journey = true
