@@ -11,6 +11,10 @@ INCLUDE keywords/memory.ink
 INCLUDE keywords/people.ink
 INCLUDE keywords/creators.ink
 INCLUDE keywords/feelings.ink
+INCLUDE keywords/andronauts.ink
+INCLUDE keywords/wormhole.ink
+INCLUDE keywords/time_return.ink
+INCLUDE keywords/vessel.ink
 
 -> the_andronaut
 
@@ -71,10 +75,10 @@ Andrine: It's easiest with words and expressions that I have already mentioned i
 
 Jon: Well, let's have a try...
 
--> keywords(-> consultation)
+-> keywords(-> councelling)
 
 
-== consultation ==
+== councelling ==
 Next action
 -> DONE
 

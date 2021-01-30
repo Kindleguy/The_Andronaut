@@ -11,6 +11,11 @@ VAR mentioned_people = false
 VAR mentioned_creators = false
 VAR mentioned_feelings = false
 
+VAR mentioned_andronauts = false
+VAR mentioned_wormhole = false
+VAR mentioned_time_return = false
+VAR mentioned_vessel = false
+
 == keywords (-> sequel) ==
 
 * {mentioned_andrine} Andrine
@@ -55,6 +60,22 @@ VAR mentioned_feelings = false
 * {mentioned_memory} Feelings
 
     -> feelings -> keywords(sequel)
+    
+* {mentioned_andronaut} Andronauts
+
+    -> andronauts -> keywords(sequel)
+    
+* {mentioned_wormhole} Wormhole
+
+    -> wormhole -> keywords(sequel)
+    
+* {mentioned_time_return} Time return
+
+    -> time_return -> keywords(sequel)
+    
+* {mentioned_vessel} Vessel
+
+    -> vessel -> keywords(sequel)
 
 * Stop questioning
   
