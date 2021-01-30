@@ -26,6 +26,8 @@ Andrine: Just about ten lightyears away from our current position. The resident 
 
 ~ revealed_hub_position = true
 
+# IMAGE: images/station.jpg
+
 * Jon: I would never have thought of visiting that world.
     Andrine: I can kind of understand that. 
 

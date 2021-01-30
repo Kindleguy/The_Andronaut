@@ -5,6 +5,8 @@ Jon: How could the creators figure out that wormholes would work for time return
 
 Andrine: There was of course an experiment with the two wormholes which are closest to us. It took one year to get to the second-closest wormhole with superlight travel. The return happened the week after the departure, just as planned.
 
+# IMAGE: images/event_horizon.jpg
+
 Jon: How can you know which wormhole leads to which one?
 
 Andrine: They all lead to each other, and it is possible to control where to travel to with the superlight drives inside the wormholes. We just need to map the properties, the signature, of a wormhole to navigate to form another one.

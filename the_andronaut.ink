@@ -68,6 +68,8 @@ Andrine: It was long, VERY long, and the bumpy return ride seems to have disable
 
 Jon: We were lucky just being able to reactivate you and fix your physical injuries. Our android technology is not as the one used to construct you.
 
+# IMAGE: images/ship.jpg
+
 Andrine: Try to query me more specifically with keywords. That helps me jog my slow memory backup retrieval routines.
 
 Jon: Any keywords?
