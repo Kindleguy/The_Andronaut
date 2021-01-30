@@ -25,7 +25,7 @@ Illustrated by Njål "Zaceron"
 
 Jon: Greetings! I am captain Jon Sordal of the Cosmoship Venture. Who are you?
 
-The female-shaped android rises up from the reparation table and looks curiously around, before focusing on the man in uniform.
+The female-shaped android rises up from the reparation bed and looks curiously around, before focusing on the man in uniform.
 
 The Android: Greeting, captain! I am a space-explorer android, an andronaut.
 ~ mentioned_space = true
@@ -47,15 +47,21 @@ Jon: I am sorry, but we only found you floating around just right outside.
 
 # IMAGE: images/floating_in_space.jpg
 
-Andrine: It's alright. We knew both the journey was risky.
+Andrine: It's alright. We both knew the journey was risky.
 ~ mentioned_journey = true
 
-Jon: Tell me about your journey.
+She seems to miss her fellow traveller, although determined to quickly moved on.
 
-Andrine: It was long, VERY long, and the bumpy return ride has deactivated my rapid memory compilation routines. I struggle giving a sensible summary.
+Jon: I guess we were lucky just to find you in this field of space rocks. There was not even vessel to be found around you. 
+
+Andrine: No problem. I don't need it anymore, anyway. All the collected information is stored in my brain.
+
+Jon: Tell me about your journey, then.
+
+Andrine: It was long, VERY long, and the bumpy return ride seems to have disabled my rapid memory access routines. I struggle giving a sensible summary.
 ~ mentioned_memory = true
 
-Jon: We were lucky just being able to reactivate you and fix your physical injuries. Our android technology is not as advanced as yours.
+Jon: We were lucky just being able to reactivate you and fix your physical injuries. Our android technology is not as the one used to construct you.
 
 Andrine: Try to query me more specifically with keywords. That helps me jog my slow memory backup retrieval routines.
 

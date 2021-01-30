@@ -7,7 +7,6 @@ VAR mentioned_andronaut = false
 VAR mentioned_journey = false
 VAR mentioned_risky = false
 VAR mentioned_memory = false
-
 VAR mentioned_people = false
 VAR mentioned_creators = false
 VAR mentioned_feelings = false
