@@ -21,4 +21,16 @@ Jon: Did you keep the right speed this time?
 
 Andrine: Robert controlled the speed. I was focusing on the direction inside the wormtunnel.
 
+Jon: Let's say everything had worked as expected. When would you have arrived relatively to your departure from home?
+
+Andrine: About ten years after. We knew for certain that such a long wormtunnel ride would result in a relatively large margin of error. We could not risk any earlier time window of arrival, because we didn't want to arrive earlier than when we left.
+
+Jon: Do you know which time it is on your homeworld right now?
+
+Andrine: No, sensors on my voidshuttle would have been able to tell, but I guess you didn't find any of those.
+
+Jon: No, sorry for that.
+
+Andrine: You don't need to be that polite.
+
 ->->

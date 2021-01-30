@@ -30,34 +30,11 @@ Andrine: Nothing you could have done.
 
 They stay silent for a moment, until the captain resumes his queries.
 
-Jon: Where is your home world, the place you were created.
+Jon: Where is your home world, the place you were created?
 
 Andrine: Let me have a look at a map of the area. It should be around here.
 
-Jon: Here you are! We are new in this area, and have not found any inhabited worlds yet.
-
-Andrine: Strange. There should be loads of creator colonies in this area. 
-
-Jon: We have found many habitABLE worlds, but with no sentient beings on them. Believe me. We have tried to comminicate with them. Our universal translator could interpret what they had to say, but were soon classified to be on an animalistic stage of development.
-
-Andrine studies silently the 3D map inside her brain for a while.
-
-Andrine: Here it is.
-
-She shows a holoprojection of the map from her left palm and visualizes the current position of CS Venture and of planet believed to be difficult for humans to colonize. 
-
-Andrine: Just about ten lightyears away from our current position. The resident creators and androids call it Hub, much simpler than what you have dubbed it: Hefaistos-3.
-
-~ revealed_hub_position = true
-
-* Jon: I would never have thought of visiting that world.
-    Andrine: I can kind of understand that. 
-
-* Jon: Fascinating! What can you tell me about Hub?
-
-- Andrine: Our homeworld is quite cold compared to yours. We almost always have the condition you call winter to a more or less extent.
-
-Jon: Strange and wonderful how people can adapt.
+-> locate_andrines_homeworld ->
 
 Jon: How do the creators look like?
 
@@ -74,5 +51,17 @@ Andrine: I have her memories from up until the time was created, and I met her a
 Jon: And I guess Robert looked a lot like his father?
 
 Andrine: Indeed he did. 
+
+Jon: Do you two have your names from your parents as well?
+
+Andrine: No, they wanted us to develop our own identities, even though we have a lot of commonalities. My mother was called Anna Wright, and Robert's father Ragnar Mechanic.
+
+Jon: Were they two close?
+
+Andrine: Yes, I think so, but how close, they didn't even know themselves.
+
+Jon: Were you and Robert in some sense siblings?
+
+Andrine: No, of course not. We didn't have any common parent.
 
 ->->

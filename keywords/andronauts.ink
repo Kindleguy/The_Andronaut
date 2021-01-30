@@ -3,6 +3,6 @@ Andrine: Robert and I were of course not alone surveying the galaxy. We all andr
 ~ mentioned_wormhole = true
 ~ mentioned_time_return = true
 
-Makes sense.
+Jon: Makes sense.
 
 ->->

@@ -17,4 +17,23 @@ Andrine: All my data are encrypted. They can only be read directly by the creato
 
 Jon: I see.
 
+Jon: What did you learn from the people you met?
+
+Andrine: You are always welcome, unless you are a threat to their existence.
+
+* Jon: That's it?
+    Andrine: I could of course get into more detail, but I think it's more important to look for my homeworld right now.
+
+* Jon: I guess the main difference lies in how they consider others a threat.
+    
+    Andrine: That's right!
+    
+    Jon: Can you help us being prepared for our journeys, by sharing knowledge about the people you have met?
+    
+    Andrine: Yes, if you want to help me find my homeworld.
+    
+- Jon: Of course. Can you try to show us the position on a map?
+
+-> locate_andrines_homeworld ->
+
 ->->
