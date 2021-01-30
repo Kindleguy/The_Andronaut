@@ -10,11 +10,12 @@ VAR mentioned_memory = false
 VAR mentioned_people = false
 VAR mentioned_creators = false
 VAR mentioned_feelings = false
-
 VAR mentioned_andronauts = false
 VAR mentioned_wormhole = false
 VAR mentioned_time_return = false
 VAR mentioned_vessel = false
+
+VAR revealed_hub_position = false
 
 == keywords (-> sequel) ==
 

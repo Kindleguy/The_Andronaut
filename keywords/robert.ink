@@ -10,7 +10,7 @@ Andrine: My companion. I would not have survived the journey without him.
     
 * Andrine: How were you dependent on him?
 
-    Travelling alone can be dangerous. If I would malfunction then, no one would be able repair me. If found, most passers-by would think I were a dead organic and not care about me.
+    Travelling alone can be dangerous. If I would malfunction on a solo journey, no one would be able repair me. If found, most passers-by would likely think I were a dead organic and not care about me.
     
     Jon: We did care, though.
     
@@ -22,7 +22,15 @@ Andrine: Of course, or else he would not have lived long enough to complete the 
 
 Jon: So you were capable of loving each others?
 
-Andrine: We were equipped with all kinds of organic feelings, except for boredom and anger, so yes. That makes unsupervised exploration more existing, but without the worst organic distractions.
+Andrine: We were equipped with all kinds of organic feelings, except for boredom, sorrow and anger, so yes. That makes unsupervised exploration more existing, but without the worst organic distractions.
+
+Jon: I envy you on missing boredom.
+
+Andrine: I of course have longing for experiencing new things, but I am always satisfied with what I currently have.
+
+Jon: Do you miss Robert?
+
+Andrine: Yes, I would love meeting him again, if possible, but I am currently satisfied enjoying the memories of him that you help me bring back.
 
     ~ mentioned_feelings = true
     
