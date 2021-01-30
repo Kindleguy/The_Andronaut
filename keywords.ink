@@ -19,7 +19,10 @@ VAR revealed_hub_position = false
 
 == keywords (-> sequel) ==
 
-* {revealed_hub_position} Coordinates of Andrine's homeworld Hub are found. Stop questioning and find that planet.
+* {revealed_hub_position} [Coordinates of Andrine's homeworld Hub are found. Stop questioning and find that planet.]
+    Jon: Thanks for giving us the coordinates. We'll find your homeworld!
+    
+    Andrine: That pleases me!
     -> sequel
 
 * {mentioned_andrine} Andrine
