@@ -76,10 +76,15 @@ Andrine: It's easiest with words and expressions that I have already mentioned i
 
 Jon: Well, let's have a try...
 
--> keywords(-> councelling)
+-> keywords(-> find_andrines_homeworld)
+
+== find_andrines_homeworld == 
+Jon and the chief science officer discovers the planet Hub and finds out that it is not as developed in space travel and android technology as Andrine remembered it.
+-> visit_councellor
 
 
-== councelling ==
-Next action
+== visit_councellor ==
+Jon visits the councellor of the ship for advice of what to do.
+The choices are between leaving Andrine on her homeworld or letting Andrine join the Venture and live among earthlings until the time she were supposed to return to Hub.
 -> DONE
 

@@ -19,6 +19,9 @@ VAR revealed_hub_position = false
 
 == keywords (-> sequel) ==
 
+* {revealed_hub_position} Coordinates of Andrine's homeworld Hub are found. Stop questioning and find that planet.
+    -> sequel
+
 * {mentioned_andrine} Andrine
     -> andrine -> keywords(sequel)
 
@@ -78,6 +81,5 @@ VAR revealed_hub_position = false
 
     -> vessel -> keywords(sequel)
 
-* Stop questioning
+
   
-    -> sequel
