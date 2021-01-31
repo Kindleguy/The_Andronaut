@@ -24,7 +24,7 @@ VAR andrine_remains_herself = true
 * {revealed_hub_position} [Coordinates of Andrine's homeworld Hub are found. Stop questioning and find that planet.]
     Jon: Thanks for giving us the coordinates. We'll find your homeworld!
     
-    Andrine: That pleases me!
+    Andrine: You're welcome! That pleases me a lot!
     -> sequel
 
 * {mentioned_andrine} Andrine

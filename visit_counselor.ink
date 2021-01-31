@@ -2,6 +2,8 @@
 //Jon visits the councellor of the ship for advice of what to do.
 //The choices are between leaving Andrine on her homeworld in guise of a creator with all her emotions turned on, or letting Andrine join the Venture and live among earthlings until the time she were supposed to return to Hub.
 
+# IMAGE: images/ship.jpg
+
 Jon finds himself in the office of counselor Giselle Penseur, where they are sitting comfortably on each armchair.
 
 Giselle: Normally I would say that this would be up to Andrine to decide what she wants to do, but I understand this can have unpredictable serious ramifications if we don't thread carefully.
@@ -19,6 +21,8 @@ Giselle: Normally I would say that this would be up to Andrine to decide what sh
 * Jon: We wanted to make discoveries. Now we have a valuable source of information from the future.
     
 - Giselle: I would advice that Andrine forgets about her past, until the point when she was supposed to return to Hub.
+
+# AUDIO: music/orchestral_theme.mp3
     
 Jon: Without a past, a person is nothing.
     
