@@ -1,6 +1,6 @@
 == hard_decision ==
 
-# IMAGE: images/ship.jpg
+# IMAGE: images/sickbay_3.jpg
 
 Andrine has completely recovered her injuries, and meets the captain in his quarters.
 
@@ -15,6 +15,8 @@ Jon: Please have a seat!
 He points towards the couches in the corner with his right arm. Through the windows they have a panorama view of the planet Hub.
 
 They both admire the view for a while.
+
+# IMAGE: images/planetside.jpg
 
 Jon: I guess you already know when you are supposed to return home.
 
@@ -76,6 +78,8 @@ Jon follows Andrine to the entrance door. Right before leaving, she turns toward
     Andrine: Thanks for all you have done!
     She runs hastefully through the corridor, just like the young the walking mind machine she really is.
 }
+
+# IMAGE: images/ship.jpg
 
 TO BE CONTINUED... I hope...
 

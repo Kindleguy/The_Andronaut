@@ -1,5 +1,7 @@
 == creators == 
 
+# IMAGE: images/sickbay_2.jpg
+
 Andrine: The creators are the people who sent us out on discovery for new places to stay, and learn from other peoples.
 
 # AUDIO: music/the_mystery_continues.mp3

@@ -5,7 +5,9 @@ Jon: Peculiar word. I have never heard it before.
 
 Andrine: I guess you have not had any use of it until now.
 
-Jon: Our most advanced androids work as scientific assistants. They are not able to take their own initiative for anything yet.
+Jon: Our most advanced androids work as scientific or piloting assistants. They are not able to take their own initiative for anything yet.
+
+# IMAGE: images/cockpit.jpg
 
 Andrine: The astronomer creators made me as a mechatronic clone of one of themselves to make sure I had the urge to explore the badly charted parts of the galaxy.
 ~ mentioned_creators = true

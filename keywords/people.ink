@@ -1,4 +1,7 @@
 == people ==
+
+# IMAGE: images/sickbay.jpg
+
 Andrine: We always had a goal of meeting and getting to know people on our journey, and let them know about the andronauts and the creators.
 
 ~ mentioned_creators = true

@@ -8,6 +8,8 @@ Andrine: We had solar panels on our vessel, powering both itself and us for emer
 ~ mentioned_vessel = true
 ~ mentioned_wormhole = true
 
+# IMAGE: images/even-horizon.jpg
+
 { journey_mission:
     -> journey_mission ->
 }

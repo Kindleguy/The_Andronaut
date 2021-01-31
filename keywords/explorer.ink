@@ -5,6 +5,8 @@ Jon: Why you?
 
 Andrine: Exploration has always been my dream, and androids never get tired of the pursuing their goals.
 
+# IMAGE: images/planet.jpg
+
 { journey_mission:
     -> journey_mission ->
 }

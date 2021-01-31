@@ -5,4 +5,6 @@ Andrine: Robert and I were of course not alone surveying the galaxy. All of us a
 
 Jon: Makes sense.
 
+# IMAGE: images/planet.jpg
+
 ->->

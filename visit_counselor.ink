@@ -6,6 +6,8 @@
 
 Jon finds himself in the office of the ship's head counselor Giselle Penseur, where they are sitting comfortably on each armchair.
 
+# IMAGE: images/conversation.jpg
+
 Giselle: Normally I would say that it would be up to Andrine to decide what she wants to do, but I understand that this matter can have unpredictable serious ramifications for the possibly the entire universe if we don't thread carefully.
 
 * Jon: She really deserves to decide for herself, but it's too dangerous.

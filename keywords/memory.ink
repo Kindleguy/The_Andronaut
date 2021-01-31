@@ -1,4 +1,7 @@
 == memory == 
+
+# IMAGE: images/sickbay.jpg
+
 Andrine: Normally I could recall anything instantly. Now that part of my brain is missing.
 
 Jon: So your memory works like for a human right now?

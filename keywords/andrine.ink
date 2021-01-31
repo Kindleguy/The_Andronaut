@@ -2,6 +2,8 @@
 
 Andrine: My identity. I love it. I have never felt any need to change it.
 
+# IMAGE: images/sickbay_2.jpg
+
 * Jon: Andrine the Android. That sounds convenient.
 
     Andrine: Mostly yes, but not all people I have met can pronounce it properly.

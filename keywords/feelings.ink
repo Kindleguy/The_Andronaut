@@ -1,4 +1,7 @@
 == feelings ==
+
+# IMAGE: images/sickbay_2.jpg
+
 Andrine: We feel like you organics, but we have disabled most of our negative feelings to function properly.
 
 Jon: Do you get scared or anxious?

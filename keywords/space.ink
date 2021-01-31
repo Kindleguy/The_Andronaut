@@ -11,6 +11,8 @@ Andrine: Our vessel had a state-of-the-art antimatter-driven engine and superlig
 
 ~ mentioned_vessel = true
 
+# IMAGE: images/planet.jpg
+
 { journey_mission:
     -> journey_mission ->
 }

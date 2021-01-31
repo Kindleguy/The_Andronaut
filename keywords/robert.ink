@@ -1,5 +1,7 @@
 == robert == 
 
+# IMAGE: images/sickbay.jpg
+
 Andrine: Robert was my companion. I would not have survived the journey without him.
 
 * Jon: How was he your companion?

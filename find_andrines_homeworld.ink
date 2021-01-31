@@ -1,11 +1,15 @@
 == find_andrines_homeworld == 
 //Captain Jon Sordal and the chief science officer Heinz Berger discovers the planet Hub and finds out that it is not as developed in space travel and android technology as Andrine remembered it.
 
-# IMAGE: images/station.jpg
+# IMAGE: images/planetside.jpg
 
 The next day, the Venture sends a first-contact away team with amongst others captain Jon Sordal and the chief science officer Heinz Berger. They have a meeting with the internation cooperation board of the United Hub Countries. They figure out that space exploration has just started and hub creators have only populated the already habitable and the terraformable planets and moons of the Hub solar system, and nowhere beyond.
 
 On request they get to visit the International Space Agency and the Central Institute of Android Research. The latter is quite new, and the androids are far from being as advanced as Andrine. There is no trace of andronauts.
+
+Back on the ship, Jon and Heinz review their findings together at Heinz's research lab.
+
+# IMAGE: images/planet_feed.jpg
 
 Heinz: This world is prosperous and promising in its technological development. We should definately establish trade and cultural and scientific exchange with it.
 
