@@ -1,6 +1,10 @@
 == hard_decision ==
 
+# IMAGE: images/ship.jpg
+
 Andrine has completely recovered her injuries, and meets the captain in his quarters.
+
+# AUDIO: music/orchestral_theme.mp3
 
 Jon: How are you?
 
