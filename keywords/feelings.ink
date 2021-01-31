@@ -1,5 +1,5 @@
 == feelings ==
-Andrine: We feel like you, but we have the most of the negative feelings are disabled.
+Andrine: We feel like you organics, but we have disabled most of our negative feelings to function properly.
 
 Jon: Do you get scared or anxious?
 
@@ -11,7 +11,7 @@ Andrine: We can detect unreasonable and stupid behavior, but we don't let that r
 
 Jon: Would be nice for me and my crew to control our emotions sometimes.
 
-Andrine: When I left the creators, they had not managed to make biosoftware for mind control and mind extension to work properly yet, at least not for laymen.
+Andrine: When I left the creators, they had not managed to make biosoftware for control and extension of their minds work properly yet, at least not for laymen.
 
 Jon: That's a pity.
 

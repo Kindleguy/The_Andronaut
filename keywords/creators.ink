@@ -1,5 +1,8 @@
 == creators == 
+
 Andrine: The creators are the people who sent us out on discovery for new places to stay, and learn from other peoples.
+
+# AUDIO: music/the_mystery_continues.mp3
 
 Jon: What can you tell me about these creators?
 
@@ -7,20 +10,20 @@ Andrine: They are basically just like me, just organic and fragile.
 
 Jon: What did those people call themselves?
 
-Andrine: I just told you: the creators. They loved building and constructing stuff, and making things up. The Andronauts are their newest known creation from their imagination. First we were fiction, later science.
+Andrine: I just told you: the creators. They love building and constructing stuff, and making things up. The Andronauts are their newest known creation from their imagination. First we were fiction, later science.
 
 ~ mentioned_andronauts = true
 
-Jon: Why invest in such a long-term discovery? None of these organic creators of yours could possibly live long enough for your return.
+Jon: Why invest in such a long-term discovery journey like the one you were on? None of these organic creators of yours could possibly live long enough for your return.
 
-Andrine: Exploration out of curiosity and getting new ideas, of course. Their descendants should be prepared. Although through the wormhole, we should have returned to the time just after we left, to avoid waste of research resources.
+Andrine: Exploration out of curiosity and getting new ideas, of course! Their descendants should be prepared for my arrival, if need be. Although through the wormhole, we should have returned to a time relatively short after we left, to avoid waste of research resources.
 
 ~ mentioned_wormhole = true
 ~ mentioned_time_return = true
 
 Jon: So time travel through wormholes is possible?
 
-Andrine: Yes, but risky. We thought we had made our necessary security precautions, but the vessel didn't seem to make it through.
+Andrine: Yes, but risky. We thought we had made our necessary security precautions, but the vessel didn't seem to make it through. Neither did Robert.
 
 ~ mentioned_vessel = true
 
@@ -42,7 +45,7 @@ Suddenly Andrine changes her appearance and looks completely human, except for t
 
 Andrine: This is how my mother creator looked like.
 
-The only thing that surprised Jon a little is that the hair is still purple, and somehow it seemed to be the natural color.
+The only thing that surprises Jon a little is that the hair is still purple, and somehow it seems to be a natural color.
 
 Jon: I see. How closely were you attached?
 
@@ -58,10 +61,14 @@ Andrine: No, they wanted us to develop our own identities, even though we have a
 
 Jon: Were they two close?
 
-Andrine: Yes, I think so, but how close, they didn't even know themselves.
+Andrine: Yes, I think so, but how close, they didn't even know themselves before we left.
 
 Jon: Were you and Robert in some sense siblings?
 
 Andrine: No, of course not. We didn't have any common parent.
+
+Jon: Of course! You were clones.
+
+Andrine: Exactly!
 
 ->->

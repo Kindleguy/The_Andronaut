@@ -1,7 +1,11 @@
 == people ==
 Andrine: We always had a goal of meeting and getting to know people on our journey, and let them know about the andronauts and the creators.
 
+~ mentioned_creators = true
+
 Jon: What kind of people have you met on your journey?
+
+~ mentioned_people = true
 
 Andrine: Humanoids, reptiloids, felinoids, caninoids, syntetics, almost any thinkable kind.
 
@@ -12,8 +16,6 @@ Andrine: Like we do, with universal translators. It adapts very quickly.
 Jon: Yes, we were able to install a translation module in you for all of our commonly used earth languages, but we still could not access your data directly.
 
 Andrine: All my data are encrypted. They can only be read directly by the creators, which of course have to repair my rapid memory access first. Otherwise, people just have to ask me nicely to share my experience.
-
-~ mentioned_creators = true
 
 Jon: I see.
 
@@ -30,9 +32,9 @@ Andrine: You are always welcome, unless you are a threat to their existence.
     
     Jon: Can you help us being prepared for our journeys, by sharing knowledge about the people you have met?
     
-    Andrine: Yes, if you want to help me find my homeworld.
+    Andrine: Yes, if you help me find my homeworld.
     
-- Jon: Of course. Can you try to show us the position on a map?
+- Jon: Of course! Can you try to show me the position on a map?
 
 -> locate_andrines_homeworld ->
 

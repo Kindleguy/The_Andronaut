@@ -5,6 +5,6 @@ Andrine: Wormholes are a pratical way of traveling home from a long journey. You
 
 Jon: How do these work?
 
-Andrine: They are like a network of tunnels between the holes, called wormtunnels, where passers-through move really fast and at a virtually shorter distance. The problem is that one needs a fast-reacting intelligence as a pilot to find the right exit.
+Andrine: They are like a network of tunnels between the holes, called wormtunnels, where passers-through move really fast and also at a shorter distance through a virtual space. The problem is that the pilot needs a fast-reacting intelligence to find the right exit.
 
 ->->
