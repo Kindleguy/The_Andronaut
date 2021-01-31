@@ -2,9 +2,17 @@
 
 Andrine: My identity. I love it. I have never felt any need to change it.
 
-* Jon: Andrine the Android. That sounds kind of convenient.
+* Jon: Andrine the Android. That sounds convenient.
 
     Andrine: Mostly yes, but not all people I have met can pronounce it properly.
+    
+    Jon: I meant the letter rhyme.
+    
+    Andrine: Oh... I have actually never thought of that!
+    
+    Jon: Maybe your creator did. 
+    
+    Andrine: That's possible.
     
     ~ mentioned_people = true
 

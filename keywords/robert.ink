@@ -1,6 +1,6 @@
 == robert == 
 
-Andrine: My companion. I would not have survived the journey without him.
+Andrine: Robert was my companion. I would not have survived the journey without him.
 
 * Jon: How was he your companion?
 
@@ -20,15 +20,15 @@ Andrine: My companion. I would not have survived the journey without him.
 
 Andrine: Of course, or else he would not have lived long enough to complete the journey.
 
-Jon: So you were capable of loving each others?
+Jon: You seem to miss him. Were you capable of loving each others?
 
 Andrine: We were equipped with all kinds of organic feelings, except for boredom, sorrow and anger, so yes. That makes unsupervised exploration more existing, but without the worst organic distractions.
 
 Jon: I envy you on missing boredom.
 
-Andrine: I of course have longing for experiencing new things, but I am always satisfied with what I currently have.
+Andrine: I of course have longing for experiencing new things, and miss things and people I have lost, but I am always satisfied with what I currently have.
 
-Jon: Do you miss Robert?
+Jon: So you do miss Robert?
 
 Andrine: Yes, I would love meeting him again, if possible, but I am currently satisfied enjoying the memories of him that you help me bring back.
 

@@ -1,5 +1,5 @@
 == space ==
-Andrine: Space in itself is just nothing, but it contains a lot of exiting worlds and other objects it it.
+Andrine: Space in itself is just nothing, but it contains a lot of exiting worlds and other objects in it worth exploring.
 
 Jon: How far have you travelled?
 
