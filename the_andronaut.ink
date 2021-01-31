@@ -16,9 +16,10 @@ INCLUDE keywords/andronauts.ink
 INCLUDE keywords/wormhole.ink
 INCLUDE keywords/time_return.ink
 INCLUDE keywords/vessel.ink
-INCLUDE visit_counselor.ink
 
 INCLUDE find_andrines_homeworld.ink
+INCLUDE visit_counselor.ink
+INCLUDE hard_decision.ink
 
 -> the_andronaut
 

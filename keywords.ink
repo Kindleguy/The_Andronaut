@@ -17,6 +17,8 @@ VAR mentioned_vessel = false
 
 VAR revealed_hub_position = false
 
+VAR andrine_remains_herself = true
+
 == keywords (-> sequel) ==
 
 * {revealed_hub_position} [Coordinates of Andrine's homeworld Hub are found. Stop questioning and find that planet.]
