@@ -62,7 +62,7 @@ Jon: I am sorry, but we only found you floating around in space-rock field nearb
 Andrine: It's alright. We both knew the journey was risky.
 ~ mentioned_journey = true
 
-She seems to miss her fellow traveller, although determined to keep herself calm.
+She seems to miss her fellow traveler, although determined to keep herself calm.
 
 Jon: I guess we were lucky just to find you. There was not even a single debris of a vessel to be found around you. 
 

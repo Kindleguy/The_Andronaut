@@ -1,7 +1,7 @@
 == space ==
 Andrine: Space in itself is just nothing, but it contains a lot of exiting worlds and other objects in it worth exploring.
 
-Jon: How far have you travelled?
+Jon: How far have you traveled?
 
 Andrine: We have crossed the galaxy. That took hundred years with an average speed of 500 lightyears per year with your measuring system.
 

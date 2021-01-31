@@ -1,5 +1,5 @@
 == vessel ==
-Andrine: We travelled with a Voidshuttle, just big enough for Robert and me to feel comfy and home in the middle of nothingness.
+Andrine: We traveled with a Voidshuttle, just big enough for Robert and me to feel comfy and home in the middle of nothingness.
 
 Jon: What could you do inside there?
 

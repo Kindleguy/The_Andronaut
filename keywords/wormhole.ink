@@ -1,5 +1,5 @@
 == wormhole ==
-Andrine: Wormholes are a pratical way of travelling home from a long journey. You can with any of those travel back in time, so you arrive soon after you left, and can meet your friends and acquaintances again in while you are still active.
+Andrine: Wormholes are a pratical way of traveling home from a long journey. You can with any of those travel back in time, so you arrive soon after you left, and can meet your friends and acquaintances again in while you are still active.
 
 # IMAGE: images/event_horizon.jpg
 

@@ -13,7 +13,7 @@ Andrine: They all lead to each other, and it is possible to control where to tra
 
 Jon: How long does a wormhole travel from one endpoint to another?
 
-Andrine: One lightyear per second on average, when travelling with maximum propulsion, measured in the time passed inside the vessel, so one needs to steer the vessel fast. No organics could handle that manually.
+Andrine: One lightyear per second on average, when traveling with maximum propulsion, measured in the time passed inside the vessel, so one needs to steer the vessel fast. No organics could handle that manually.
 
 Jon: How can you control the time you arrives? 
 

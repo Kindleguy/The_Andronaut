@@ -10,7 +10,7 @@ Andrine: Robert was my companion. I would not have survived the journey without 
     
 * Andrine: How were you dependent on him?
 
-    Travelling alone can be dangerous. If I would malfunction on a solo journey, no one would be able repair me. If found, most passers-by would likely think I were a dead organic and not care about me.
+    traveling alone can be dangerous. If I would malfunction on a solo journey, no one would be able repair me. If found, most passers-by would likely think I were a dead organic and not care about me.
     
     Jon: We did care, though.
     
