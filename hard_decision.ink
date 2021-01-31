@@ -4,7 +4,7 @@
 
 Andrine has completely recovered her injuries, and meets the captain in his quarters.
 
-# AUDIO: music/orchestral_theme.mp3
+# AUDIO: music/realization_loop.wav
 
 Jon: How are you?
 
@@ -55,6 +55,8 @@ Andrine: I see. Bring it on!
     Jon: Earth and Mars are nice, at least the last time I dropped by. You may also stay on this cosmoship for a while.
     
 - Jon: I accept these conditions. I am actually looking forward to this new way of living.
+
+# AUDIO: music/main_theme.wav
 
 Jon: Good! The holographics lab can help stabilize your human appearance tomorrow. Then the virtual intelligence lab will take care of your emotions
 { 

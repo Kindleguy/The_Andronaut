@@ -10,6 +10,7 @@ Jon finds himself in the office of the ship's head counselor Giselle Penseur, wh
 
 Giselle: Normally I would say that it would be up to Andrine to decide what she wants to do, but I understand that this matter can have unpredictable serious ramifications for the possibly the entire universe if we don't thread carefully.
 
+
 * Jon: She really deserves to decide for herself, but it's too dangerous.
 
 * Jon: She knew there was a risk of getting too far back into the past.
@@ -23,9 +24,11 @@ Giselle: Normally I would say that it would be up to Andrine to decide what she 
     
 - Giselle: I would advice that Andrine forgets about her past, until the point when she was supposed to return to Hub.
 
-# AUDIO: music/orchestral_theme.mp3
+# AUDIO: music/main_theme.wav
     
 Jon: Without a past, a person is nothing.
+
+# AUDIO: music/suspense_loop.wav
     
 Giselle: She is synthetic. We could give her synthetic memories, like the past of Lilian Waters, a crewmember who died in a shuttle transport accident at the Green Boulder, the previous world we discovered last week.
 

@@ -10,6 +10,8 @@ Andrine: Our mission was to survey for inhabitable worlds, so the creators know 
 == locate_andrines_homeworld ==
 Jon uses his datapad to give Andrine's electronic brain access to the 3D map from the ship's data server.
 
+# AUDIO: music/main_theme.wav
+
 Jon: Here you are! We are new in this area, and have not found any inhabited worlds yet.
 
 Andrine: Strange. There should be loads of creator colonies in this area. 

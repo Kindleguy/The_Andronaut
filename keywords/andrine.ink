@@ -1,5 +1,7 @@
 == andrine ==
 
+# AUDIO: music/main_theme.wav
+
 Andrine: My identity. I love it. I have never felt any need to change it.
 
 # IMAGE: images/sickbay_2.jpg

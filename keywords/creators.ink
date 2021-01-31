@@ -4,7 +4,7 @@
 
 Andrine: The creators are the people who sent us out on discovery for new places to stay, and learn from other peoples.
 
-# AUDIO: music/the_mystery_continues.mp3
+# AUDIO: music/suspense_loop.wav
 
 Jon: What can you tell me about these creators?
 

@@ -17,7 +17,7 @@ INCLUDE keywords/wormhole.ink
 INCLUDE keywords/time_return.ink
 INCLUDE keywords/vessel.ink
 
-INCLUDE find_andrines_homeworld.ink
+INCLUDE survey_andrines_homeworld.ink
 INCLUDE visit_counselor.ink
 INCLUDE hard_decision.ink
 
@@ -35,7 +35,7 @@ Music composed by Joey Nathaniel
 
 Jon: Greetings! I am captain Jon Sordal of the Cosmoship Venture. Who are you?
 
-# AUDIO: music/orchestral_theme.mp3
+# AUDIO: music/main_theme.wav
 
 A female-shaped android sits up on her bed and looks curiously around, before focusing on the man in uniform.
 
@@ -83,6 +83,6 @@ Andrine: It's easiest with words and expressions that I have already mentioned i
 
 Jon: Well, let's have a try...
 
--> keywords(-> find_andrines_homeworld)
+-> keywords(-> survey_andrines_homeworld)
 
 

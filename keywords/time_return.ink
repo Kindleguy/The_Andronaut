@@ -1,7 +1,7 @@
 == time_return ==
 Andrine: We would not have been able to survey the vast parts of the galaxy without the possibility of returning at a controlled time short after the departure.
 
-# AUDIO: music/orchestral_theme.mp3
+# AUDIO: music/main_theme.wav
 
 Jon: How could your creators figure out that wormholes would work for time returns?
 
