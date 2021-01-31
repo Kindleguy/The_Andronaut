@@ -62,4 +62,4 @@ Jon rises and walks towards the door. He turns around one last time facing Gisel
 
 * I am quite confident what to do. Andrine should be the first to know about my decision.
 
-- -> DONE
+- -> hard_decision
