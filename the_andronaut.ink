@@ -29,6 +29,7 @@ The Andronaut
 
 Told by Targeir Attestog
 Illustrated by Njål "Zaceron"
+Music composed by Joey Nathaniel
 
 # IMAGE: images/sickbay.jpg
 
